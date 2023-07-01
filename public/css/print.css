@@ -1,0 +1,11 @@
+@page {
+    size: A4;
+
+}
+
+
+#print-btn {
+    display: none;
+    visibility: none;
+    padding-left: 100px;
+}
