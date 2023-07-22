@@ -1,5 +1,13 @@
 ## Mao Mamburao Website - Laravel 8 Frameworks
-
+1. Laravel 8
+2. Livewire
+3. Breeze
+4. Spatie
+5. Tailwind Css
+6. Bootstrap
+7. Javascript
+8. Chart.js
+9. Alpine.js
 Welcome to mao mamburao websites
 this projects have an admin and users page which the user can create their own account.
 
